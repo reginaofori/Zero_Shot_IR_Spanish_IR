@@ -1,1 +1,1 @@
-# Zero_Shot_IR_Spanish_IR
+# Zero_Shot_IR_Spanish
